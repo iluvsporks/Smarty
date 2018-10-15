@@ -1,8 +1,8 @@
 definition(
-    name: "Denon AVR Connect",
-    namespace: "billsq",
-    author: "Qian Sheng",
-    description: "Manage Denon AV Receivers.",
+    name: "Denon AVR Connected",
+    namespace: "iluvsporks",
+    author: "iluvsporks",
+    description: "Denon AV Receivers.",
 
     category: "My Apps",
     iconUrl: "https://raw.githubusercontent.com/billsq/smartthings-denon-avr-2017/master/smartapps/denon.png",
