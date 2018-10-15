@@ -1,13 +1,13 @@
 /**
  *  MediaRenderer Service Manager v 2.1.0
  *
- *  Author: SmartThings - Ulises Mujica 
+ *  Author: SmartThings - iluvsporks 
  */
  
 definition(
-	name: "MediaRenderer (Connect)",
-	namespace: "mujica",
-	author: "SmartThings - Ulises Mujica",
+	name: "MediaRenderer",
+	namespace: "iluvsporks",
+	author: "SmartThings - iluvsporks",
 	description: "Allows you to control your Media Renderer from the SmartThings app. Perform basic functions like play, pause, stop, change track, and check artist and song name from the Things screen.",
 	category: "SmartThings Labs",
 	singleInstance: true,
