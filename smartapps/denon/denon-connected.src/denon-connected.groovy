@@ -1,6 +1,6 @@
 definition(
     name: "Denon Connected",
-    namespace: "Denon",
+    namespace: "iluvsporks",
     author: "iluvsporks",
     description: "Denon AV Receivers.",
 
