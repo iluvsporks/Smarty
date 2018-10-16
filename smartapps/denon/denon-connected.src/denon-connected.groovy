@@ -2,7 +2,7 @@ definition(
     name: "Denon Connected",
     namespace: "iluvsporks",
     author: "iluvsporks",
-    description: "Denon AV Receivers.",
+    description: "Denon AV Receiver Control.",
 
     category: "My Apps",
     iconUrl: "https://raw.githubusercontent.com/billsq/smartthings-denon-avr-2017/master/smartapps/denon.png",
