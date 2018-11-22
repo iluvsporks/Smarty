@@ -1,12 +1,12 @@
 /**
  *  Hue Advanced Bridge
  *
- *  Author: claytonjn
+ *  Author: iluvsporks
  */
 // for the UI
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "Hue Advanced Bridge", namespace: "claytonjn", author: "claytonjn") {
+	definition (name: "Hue Advanced Bridge", namespace: "iluvsporks", author: "iluvsporks") {
 		capability "Bridge"
 		capability "Refresh"
 		capability "Health Check"
