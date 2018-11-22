@@ -1,11 +1,9 @@
 /**
  *  Nest Protect
- *	Author: Anthony S. (@tonesto7)
- *	Co-Authors: Ben W. (@desertblade), Eric S. (@E_Sch)
+ *	Author: iluvsporks
  *
- *	Copyright (C) 2017 Anthony S.
- * 	Licensing Info: Located at https://raw.githubusercontent.com/tonesto7/nest-manager/master/LICENSE.md
- */
+ *	Copyright (C) 2017 
+ * 	
 
 import java.text.SimpleDateFormat
 
@@ -14,7 +12,7 @@ preferences { }
 def devVer() { return "5.1.4" }
 
 metadata {
-	definition (name: "${textDevName()}", author: "Anthony S.", namespace: "tonesto7") {
+	definition (name: "${textDevName()}", author: "iluvsporks" namespace: "iluvsporks") {
 		//capability "Polling"
 		capability "Actuator"
 		capability "Sensor"
